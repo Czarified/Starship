@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+abstract:   "OpenVSP Models of the Starship launch system. Including a previous 
+            3-fin version Starship, and Starship HLS with SuperHeavy. These models
+            should be sufficient for 3d printing, layout conceptualizations, or
+            mass properties analysis. Aero analysis will likely need more cleanup."
+authors:
+  - family-names: Crews
+    given-names: Benjamin
+title: "SpaceX Starship OpenVSP Models"
+version: 0.1.0
+date-released: 2021-09-16
+license: MIT
+repository-code: https://github.com/Czarified/Starship
