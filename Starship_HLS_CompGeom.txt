@@ -1,0 +1,20 @@
+...Comp Geom...
+5 Num Comps
+5 Total Num Meshes
+69760 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+  334.054    242.819   -537.114  -543901.331  CH4_Internal   
+  541.100    446.925    732.735    732.735  LOX_Internal   
+   21.708     11.000      9.486      9.486  CH4header_Internal
+   28.378     28.378     13.823     13.823  LOXheader_Internal
+  509.064    509.064    857.539    857.539  Crew+Cargo_Internal
+-------------------------------------------------
+ 1434.303   1238.186   1076.470   2387.724  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+      334.054        242.819    CH4_Internal_Surf0
+      541.100        446.925    LOX_Internal_Surf0
+       21.708         11.000    CH4header_Internal_Surf0
+       28.378         28.378    LOXheader_Internal_Surf0
+      509.064        509.064    Crew+Cargo_Internal_Surf0
