@@ -1,0 +1,15 @@
+...Comp Geom...
+2 Num Comps
+7 Total Num Meshes
+27272 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+ 1367.895   1318.411   2783.871   2783.871  Starship Fuse  
+   19.951     10.694      2.893      1.668  LandingGearPod 
+   19.951     10.702      2.893      1.669  LandingGearPod 
+   19.951     10.701      2.893      1.669  LandingGearPod 
+   19.951     10.694      2.893      1.668  LandingGearPod 
+   19.951     10.702      2.893      1.669  LandingGearPod 
+   19.951     10.701      2.893      1.669  LandingGearPod 
+-------------------------------------------------
+ 1487.600   1382.607   2801.227   2798.837  Totals         
