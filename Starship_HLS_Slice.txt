@@ -1,0 +1,24 @@
+WARNING: 6 open meshes removed
+     Removed: LandingGearPod
+     Removed: LandingGearPod
+     Removed: LandingGearPod
+     Removed: LandingGearPod
+     Removed: LandingGearPod
+     Removed: LandingGearPod
+...Slice...
+54 Num Comps
+58 Total Num Meshes
+39048 Total Num Tris
+0.00000 0.00000 1.00000 Axis Vector
+
+    Loc    XCenter  YCenter  ZCenter         Area
+   -5.496     0.000     0.000     0.000     0.000
+   -4.275    64.849     0.000    -4.275   296.995
+   -3.053    63.835    -0.000    -3.053   738.945
+   -1.832    62.764     0.000    -1.832   938.881
+   -0.611    62.098    -0.000    -0.611  1027.645
+    0.611    62.098    -0.000     0.611  1027.645
+    1.832    62.764    -0.000     1.832   938.881
+    3.053    63.835     0.000     3.053   738.945
+    4.275    64.849    -0.000     4.275   296.995
+    5.496     0.000     0.000     0.000     0.000
