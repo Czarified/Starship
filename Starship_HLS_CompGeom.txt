@@ -1,9 +1,9 @@
 ...Comp Geom...
 1 Num Comps
 1 Total Num Meshes
-19120 Total Num Tris
+992 Total Num Tris
 
 Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
-  715.549    715.549   1051.778   1051.778  Crew+Cargo_Internal
+   25.606     25.606      8.623      8.623  Raptor_Vac     
 -------------------------------------------------
-  715.549    715.549   1051.778   1051.778  Totals         
+   25.606     25.606      8.623      8.623  Totals         
